@@ -9,7 +9,7 @@ Please include the following in your email:
   - GitHub Repository URL: your repository URL
     
 Deadline
-  - C1: June 7
-  - C2: June 11
-  - C3: Jun 11
+  - C1: September 7
+  - C2: September 11
+  - C3: September 11
 
